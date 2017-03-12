@@ -1,3 +1,4 @@
+// WILHELM STEPHANE
 //ALGORITHME : GARAGE
 //BUT : Afficher les fonctionnalitées attendues
 //ENTREE : 
